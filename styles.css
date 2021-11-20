@@ -1,0 +1,58 @@
+.container {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+    padding: 5%;
+}
+
+body {
+    background-color: #FF3D68;
+}
+
+h1 {
+    margin: 1px;
+    font-family: 'Rampart One', cursive;
+    font-size: 6rem;
+    color: #EEEEEE;
+}
+
+p {
+    font-size: 2rem;
+    color: #EEEEEE;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+img {
+    width: 150px;
+}
+
+footer {
+    margin-top: 2%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
+
+.bottom {
+    padding-top: 30px;
+}
+
+.butn {
+    background-color: #716F81;
+    font-family: 'Ubuntu', sans-serif;
+    border-radius: 9px;
+    color: #EEEEEE;
+    font-size: 30px;
+    padding: 16px 25px 16px 25px;
+    text-decoration: none;
+}
+
+.butn:hover {
+    background-color: #B2B1B9;
+    text-decoration: none;
+}
